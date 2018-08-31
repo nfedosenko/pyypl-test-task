@@ -2,8 +2,7 @@ This project was bootstrapped with [Create React Native App](https://github.com/
 
 # Introduction
 
-This is the test task for Pyypl. 
-This React Native application shows the credit card 
+This is the test task for creating the React Native application that shows the credit card 
 with card number, cvv and expiry date fetched from the mocked API.
 Application contains only from PaymentCard dumb component with passed via props data.
 While data is fetched from the API, the loader with the Logo is shown.
